@@ -1007,3 +1007,9 @@ img {
   justify-content: center;
   fill: transparent;
 }
+
+.modal-checkbox:checked + .checkbox-terms {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
