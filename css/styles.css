@@ -1044,11 +1044,12 @@ img {
 
 .portfolio-footer-form {
   display: flex;
-}
-
-.portfolio-footer-label {
   gap: 24px;
 }
+
+/* .portfolio-footer-label {
+  gap: 24px;
+} */
 
 .portfolio-form-input {
   width: 264px;
