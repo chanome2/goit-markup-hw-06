@@ -1008,7 +1008,7 @@ img {
   fill: transparent;
 }
 
-.modal-checkbox:checked + .checkbox-terms {
+.modal-checkbox:checked + .checkbox-label .checkbox-terms {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
