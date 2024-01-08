@@ -744,6 +744,8 @@ img {
   background-color: rgba(46, 47, 66, 0.4);
   transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    /* hw6 modal */
+  padding: 72px 24px 24px 24px;
 }
 
 .is-hidden {
@@ -892,3 +894,11 @@ img {
 .subscribe-button-icon {
   margin-left: 16px;
 }
+
+/* end of hw6 footer */
+
+/* start of hw6 modal */
+
+/* .main-modal {
+  padding: 72px 24px 24px 24px;
+} */
