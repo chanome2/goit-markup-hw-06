@@ -888,3 +888,7 @@ img {
   border: none;
   border-radius: 4px;
 }
+
+.subscribe-button-icon {
+  margin-left: 16px;
+}
