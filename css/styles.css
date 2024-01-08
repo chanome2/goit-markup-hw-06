@@ -847,3 +847,15 @@ img {
 
 /* start of hw6 footer */
 
+.homework-six-paragraph {
+  margin-bottom: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.footer-form {
+  display: flex;
+  gap: 24px;
+}
